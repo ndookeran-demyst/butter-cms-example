@@ -1,5 +1,5 @@
 # Using a specific version of node image based on Debian Bullseye
-FROM node:20.12.2-bullseye
+FROM node:20.15-bullseye
 
 # Set an environment variable
 ARG MANTA_HOST
